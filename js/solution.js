@@ -1,3 +1,6 @@
+
+// THIS FILE WAS WHAT I ACCIDENTALLY CLONED ON THE WEEKEND
+
 const siteContent = {
   "nav": {
     "nav-item-1": "Services",
