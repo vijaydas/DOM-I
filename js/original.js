@@ -37,26 +37,6 @@ const siteContent = {
   },
 };
 
-// NAV
-
-let services = document.getElementById('a')[0];
-logo.setAttribute('src', siteContent["nav"]["inav-item-1"]);
-
-let product = document.getElementById('a')[1];
-logo.setAttribute('src', siteContent["nav"]["inav-item-2"]);
-
-let services = document.getElementById('a')[2];
-logo.setAttribute('src', siteContent["nav"]["inav-item-3"]);
-
-let services = document.getElementById('a')[3];
-logo.setAttribute('src', siteContent["nav"]["inav-item-4"]);
-
-let services = document.getElementById('a')[4];
-logo.setAttribute('src', siteContent["nav"]["inav-item-5"]);
-
-let services = document.getElementById('a')[5];
-logo.setAttribute('src', siteContent["nav"]["inav-item-1"]);
-
-// LOGO
+// Example: Update the img src for the logo
 let logo = document.getElementById("logo-img");
 logo.setAttribute('src', siteContent["nav"]["img-src"])
